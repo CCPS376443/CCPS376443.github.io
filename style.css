@@ -1,1 +1,29 @@
 
+p {
+  background-color: Lightpink;
+  font-family: "georgia", cursive;
+}
+ol {
+  font-size: 11px;
+   width: 80px;
+}
+header {
+ background-color: #FFFF00;
+   position: fixed;
+}
+footer {
+  color: #fff;
+  position: fixed;
+}
+ul {
+  font-size: 12pt;
+  display: inline-block;
+}
+nav {
+  margin: 0;
+  padding: 20px 0;
+}
+ain {
+  text-align: center;
+  position: relative;
+}
