@@ -1,19 +1,19 @@
 
 p {
   color: pink;
-  font-family: "Georgia", cursive;
+  font-family: Georgia;
 }
 ul {
-  font-size: 11px;
-   width: 80px;
+  font-size: 11pt;
+   display: inline-block;
 }
 ol {
- background-color: #FFFF00;
-   position: fixed;
+ font-width: 20px;
+  font-height: 20px;
 }
 h1 {
-  color: #fff;
-  position: fixed;
+ padding-top: 80px;
+  margin-bottom: 80px;
 }
 header {
   font-size: 12pt;
