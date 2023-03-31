@@ -19,11 +19,11 @@ ul {
   font-size: 12pt;
   display: inline-block;
 }
-nav {
+h1 {
   margin: 0;
   padding: 20px 0;
 }
-ain {
+body {
   text-align: center;
   position: relative;
 }
