@@ -3,27 +3,27 @@ p {
   color: Lightpink;
   font-family: "Georgia", cursive;
 }
-ol {
+ul {
   font-size: 11px;
    width: 80px;
 }
-header {
+ol {
  background-color: #FFFF00;
    position: fixed;
 }
-footer {
+h1 {
   color: #fff;
   position: fixed;
 }
-ul {
+header {
   font-size: 12pt;
   display: inline-block;
 }
-h1 {
+body {
   margin: 0;
   padding: 20px 0;
 }
-body {
+footer {
   text-align: center;
   position: relative;
 }
