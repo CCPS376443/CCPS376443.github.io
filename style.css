@@ -9,19 +9,19 @@ ul {
 }
 ol {
  font-width: 20px;
-  font-height: 20px;
+ font-height: 20px;
 }
 h1 {
  padding-top: 80px;
   margin-bottom: 80px;
 }
 header {
-  font-size: 12pt;
-  color: white;
+  background-color; #FF0000;
+  font-familiy: Helvetica;
 }
 body {
-  font-family: Georgia;
-  color: white
+  font-family: "Open Sans", sans-serif;
+  color: #717D7E;
 }
 footer {
   background-size: cover;
